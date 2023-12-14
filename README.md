@@ -9,4 +9,4 @@ Open the first link your terminal shows you
 
 Write sides A and B into their respective boxes and click the button!
 
-Happy using ^.^
+Happy using ^-^
